@@ -24,13 +24,21 @@ h1, h2 {
     gap: 20px
 }
 
-#logo {
+.logo {
     width: 150px;
     height: 150px;
     margin: auto;
     margin-bottom: 2.5%;
     margin-top: 2.5%;
     display: block;
+}
+
+
+#main {
+
+    width: 200px;
+    height: 200px;
+
 }
 .item {
     display: flex;
